@@ -11,8 +11,7 @@
 - CPU: MediaTek MT8185 Octa-Core Processor, Helio G90 Series, 2 x 2.05GHz Cortex-A76 + 6 x 2.00GHz Cortex-A55
   - Compitable with MT8789/MT6785
   - GPU: Mali G76 3EEMC4 (Bifrost)
-- RAM: 2GB DDR4, Up to 10GB
-- Storage: 32GB EMMC
+- RAM + Storage: FEPRB3216-58A1926 eMCP， 32GB EMMC + 2GB DDR4 package
 - PMIC: MT6359 + MT6360P + IT8911E-56B
 - Display
   - eDP: [IT6151FN](https://www.ite.com.tw/zh-cn/product/view?mid=76) MIPI-to-eDP converter, 14 inch 1920*1080, unknow panel
